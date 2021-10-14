@@ -1,0 +1,26 @@
+<annotation>
+	<folder>right</folder>
+	<filename>right.351f930a-2b3a-11ec-873b-04d4c4e3165c.jpg</filename>
+	<path>D:\code\gesture car\tfgesture\TFODCourse\Tensorflow\workspace\images\collectedimages\right\right.351f930a-2b3a-11ec-873b-04d4c4e3165c.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>480</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Right</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>2</xmin>
+			<ymin>137</ymin>
+			<xmax>276</xmax>
+			<ymax>421</ymax>
+		</bndbox>
+	</object>
+</annotation>

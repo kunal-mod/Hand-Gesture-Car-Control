@@ -1,0 +1,26 @@
+<annotation>
+	<folder>start</folder>
+	<filename>start.e2fc643a-2b39-11ec-a92a-04d4c4e3165c.jpg</filename>
+	<path>D:\code\gesture car\tfgesture\TFODCourse\Tensorflow\workspace\images\collectedimages\start\start.e2fc643a-2b39-11ec-a92a-04d4c4e3165c.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>480</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Start</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>239</xmin>
+			<ymin>121</ymin>
+			<xmax>369</xmax>
+			<ymax>324</ymax>
+		</bndbox>
+	</object>
+</annotation>
